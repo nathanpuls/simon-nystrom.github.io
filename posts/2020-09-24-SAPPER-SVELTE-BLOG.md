@@ -179,7 +179,7 @@ npm run deploy
 ```
 
 We're close to being done now, only one step left. We have to set the `gh-pages` branch that was just deployed as the main branch for GitHub Pages to read from. To do this, visit the GitHub repository you created for your blog, go to settings and scroll down until you see the **GitHub Pages** section. Under **Source** you have to change the branch to the `gh-pages` branch. It might take a few minutes until your page is correctly deployed to `<username>.github.io`.
-
+Create a file in the posts folder we created earlier called
 That's it. All done. Enjoy your newly created and freely hosted blog! 🥳
 
 ---
